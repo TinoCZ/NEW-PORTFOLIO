@@ -395,6 +395,15 @@ li{
   }
 
   @media (max-width: 768px) {
+    .btn-wsp{
+      width: 40px;
+      height: 40px;
+      font-size: 30px;
+      line-height: 40px;
+    }
+  }
+
+  @media (max-width: 768px) {
        .hero{
          flex-direction: column;
        }
