@@ -394,6 +394,11 @@ li{
         display: none;
       }
     }
+ @media (max-width: 768px) {
+      .br{
+        display: none;
+      }
+    }
     
   @media (max-width: 768px) {
     .form-group input,
